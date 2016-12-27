@@ -1,7 +1,7 @@
 # config valid only for current version of Capistrano
 lock "3.7.1"
 
-set :application, "blog"
+set :application, "blog_deploy"
 set :repo_url, "git@github.com:rebecca9201/blog_deploy.git"
 
 # Default branch is :master
